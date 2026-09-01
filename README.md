@@ -25,7 +25,7 @@ usuario:
   formacao: "jovem aprendiz - telecomunicações"
   setor: "logística & qualidade · agenda"
   interesses:
-    - lírios e serial experiments lain
+    - lírios e serial experiments lain (a garotinha do lado! > )
     - código bonito e funcional
     - redes, protocolos e como tudo se conecta
     - tipografia, fotografia e designs autorais
@@ -34,7 +34,7 @@ usuario:
 
 </td>
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" style="border-radius: 16px;">
+<img src="https://giffiles.alphacoders.com/171/171294.gif" width="230" style="border-radius: 16px;">
 </td>
 </tr>
 </table>
